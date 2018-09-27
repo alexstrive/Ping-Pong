@@ -15,7 +15,7 @@ using namespace sf;
 
 int main()
 {
-	cout << "Ping Pong by allordiron. Version: " << GAME_VERSION << endl;
+	cout << "Ping Pong. Version: " << GAME_VERSION << endl;
 	cout << "Starting game ..." << endl;
 
 	cout << "Video Mode:" << WINDOW_WIDTH << "x" << WINDOW_HEIGHT << endl;
